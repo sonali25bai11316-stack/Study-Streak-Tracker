@@ -1,0 +1,12 @@
+﻿# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+
+# Compiled Java files
+*.class
+
+
+# Local study data
+study_data.txt
